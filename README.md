@@ -30,5 +30,6 @@ The program depends on the user to initiate by entering the name of task. Thes s
 ## Team
 team members are
 1. Joshua Kobina Obeng (NiiJoshua)
-2. Joana Laryea
+2. Joana Lartey (JoLartey)
+3. Joana Owusu-Appiah
   
