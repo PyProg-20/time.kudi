@@ -25,5 +25,10 @@ There is a prompting to type done when user is finally done with the project. Th
 All information pertain to the task are saved in a csv file which the user can make reference to later in life. The csv contains 1) the task name, 2) date started, 3) time started, 4) date completed, 5) time completed, 6) hours spent on the project and 7) amount paid
 
 ## Program dependencies
-The program depends on the user to initiate. 
+The program depends on the user to initiate by entering the name of task. Thes start date and time depends on when the user is ready, which s/he indicates by typing 'Yes'
+
+## Team
+team members are
+1. Joshua Kobina Obeng (NiiJoshua)
+2. Joana Laryea
   
