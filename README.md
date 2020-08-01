@@ -1,4 +1,5 @@
 # Time.kudi
+Time.kudi is a program  that helps the user (Nana) to track and monitor the number of hours he spends on a task and how much he earns working on that task
 Time. kudi outlines python codes that is intended to calculate the time Nana spent on a task and how much Nana earns from the task. The program already has its own defined time and all Nana has to do is tell the program if he has started, taken a break, resumed from break and if he is done with the task.
 
 ## Implementation process and Design
