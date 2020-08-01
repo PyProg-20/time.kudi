@@ -22,6 +22,7 @@ There is a prompting to continue with task when ready to continue. The user can 
 There is a prompting to type done when user is finally done with the project. This ends the time and date of the project and user cannot make any changes. The system then generates the following details to the user
 	. Description of task and time of completion
 	. How much user is to be paid. This part is divides hours (in this 60 minutes) per the hourly rate of $5. 
+In the event of the system asking for entry of another task, but the user sees no need, the user only needs to click crlt+c in windows or command+c for mac to interupt the process and generate the final time and amount on the task.
 5. Saving in csv
 All information pertain to the task are saved in a csv file which the user can make reference to later in life. The csv contains 1) the task name, 2) date started, 3) time started, 4) date completed, 5) time completed, 6) hours spent on the project and 7) amount paid
 
